@@ -52,3 +52,22 @@ What is the difference between a `void` method and a method that returns `int`? 
 ### Challenge 4 - Decisions and loops
 
 Give one robot example that needs an `if`, and one that needs a loop.
+
+## Check your understanding
+
+1. <details>
+     <summary>Where does a Java program start, and why use `System.out.println` when testing robot ideas?</summary>
+     It starts in `main`. Printing is a simple way to see values and debug behavior before/while testing on a robot.
+   </details>
+2. <details>
+     <summary>List four primitive types and one robot use for each.</summary>
+     Examples: `int` (team number), `double` (drive speed), `boolean` (has note), `char` (alliance letter).
+   </details>
+3. <details>
+     <summary>What is the difference between a `void` method and a method that returns `int`?</summary>
+     `void` does work and returns nothing (for example `greet`); `int` returns a number (for example `add` summing two ints).
+   </details>
+4. <details>
+     <summary>Give one robot example that needs an `if`, and one that needs a loop.</summary>
+     `if`: only shoot when at speed. Loop: countdown, or repeat a drive step N times.
+   </details>
