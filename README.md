@@ -1,8 +1,8 @@
-# Module 1 Review: Lessons 1–5
+# Module 1 Review: Lessons 1-5
 
 ## Lesson 1: Intro and Setup
 
-This lesson establishes the fundamental structure required for every Java program. Students learn how to define a class—the basic blueprint of Java code—and implement the main method, which serves as the mandatory starting point for program execution. Understanding this boilerplate setup is essential before moving into logic and data storage.
+This lesson establishes the fundamental structure required for every Java program. Students learn how to define a class-the basic blueprint of Java code-and implement the main method, which serves as the mandatory starting point for program execution. Understanding this boilerplate setup is essential before moving into logic and data storage.
 
 ## Lesson 2: Variables and Primitive Types
 
@@ -37,18 +37,18 @@ Applied the 'Student Training Style Guide' formatting.
 
 This assignment is a **written review** (no code to submit). Answer in the Classroom write-up or as comments your mentor requests.
 
-### Challenge 1 â€” Main and printing
+### Challenge 1 - Main and printing
 
 In your own words: where does a Java program start, and why do we use `System.out.println` when testing robot ideas?
 
-### Challenge 2 â€” Variables
+### Challenge 2 - Variables
 
 List four primitive types and one example of when a robot program might use each.
 
-### Challenge 3 â€” Methods
+### Challenge 3 - Methods
 
 What is the difference between a `void` method and a method that returns `int`? Give one robotics-flavored example of each.
 
-### Challenge 4 â€” Decisions and loops
+### Challenge 4 - Decisions and loops
 
 Give one robot example that needs an `if`, and one that needs a loop.
