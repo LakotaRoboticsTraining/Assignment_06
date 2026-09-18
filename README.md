@@ -35,7 +35,7 @@ Applied the 'Student Training Style Guide' formatting.
 
 ## Try it yourself
 
-This assignment is a **written review** (no code to submit). Answer in the Classroom write-up or as comments your mentor requests.
+This assignment is a **written review** (no Java code to submit). Answer the challenges below in the write-up your mentor requests.
 
 ### Challenge 1 - Main and printing
 
